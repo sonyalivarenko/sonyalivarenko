@@ -11,9 +11,9 @@
  
  * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash 
 
-<p align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
