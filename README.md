@@ -12,7 +12,7 @@
  * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash 
  * Самые крупные проекты: <a href="https://github.com/sonyalivarenko/mesto" target="_blank">mesto</a>, <a href="https://github.com/sonyalivarenko/mesto-react" target="_blank">mesto-react</a>
  * Студент Я.Практикум. Специальность: веб-разработчик. 2022-2023 г.
- * Мечтаю работать в дружной компании и становиться опытнее с каждым днем <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="35" height="35"> 
+ * Мечтаю работать в дружной компании и становиться опытнее с каждым днем <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="20" height="20"> 
  
  
 
