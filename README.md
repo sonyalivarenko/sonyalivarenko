@@ -8,6 +8,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+junior+Front-end+developer" />
  </p>
+ 
+ * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash
+ 
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sonyalivarenko=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
