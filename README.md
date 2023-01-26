@@ -9,11 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+junior+Front-end+developer" />
  </p>
  
- * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash
- 
- 
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?sonyalivarenko=daniilshat&theme=solarized_dark)
+ * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?sonyalivarenko=daniilshat&theme=solarized_dark)
 
 
 
