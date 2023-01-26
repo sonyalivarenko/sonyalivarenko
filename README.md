@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?sonyalivarenko=anuraghazra&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyalivarenko=anuraghazra&layout=compact" />
  </p> 
  
  
