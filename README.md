@@ -11,7 +11,7 @@
  
  * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash 
  
-<p>https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?sonyalivarenko=daniilshat&theme=solarized_dark</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?sonyalivarenko=daniilshat&theme=solarized_dark" />
 
 
 
