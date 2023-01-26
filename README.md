@@ -10,9 +10,10 @@
  </p>
  
  * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash 
- 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<p align="center">
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+</p>
 
 
 
