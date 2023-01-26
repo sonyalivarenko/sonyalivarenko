@@ -11,7 +11,7 @@
  
  * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash 
  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?sonyalivarenko=daniilshat&theme=solarized_dark" />
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
