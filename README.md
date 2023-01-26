@@ -10,14 +10,20 @@
  </p>
  
  * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash 
+ * Самые крупные проекты: <a href="https://github.com/sonyalivarenko/mesto" target="_blank">"mesto"</a>, "mesto-react"
+ * 
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+ </p> 
+ 
+ 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
- </p>
+
 
 
 
