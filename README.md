@@ -14,7 +14,7 @@
  * Студент Я.Практикум. Специальность: веб-разработчик. 2022-2023 г.
  * Мечтаю работать в дружной компании и становиться опытнее с каждым днем <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="20" height="20"> 
  
- ### Мой Linkedin: <<a href="https://www.linkedin.com/in/sofia-lyvarenko-17bba2255/" target="_blank"></a>
+ ### Мой Linkedin: <a href="https://www.linkedin.com/in/sofia-lyvarenko-17bba2255/" target="_blank"></a>
 
 
 <p align="center">
