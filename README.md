@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+junior+Front-end+developer" />
  </p>
  
- * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, Webpack, Bash 
+ * Мой стек: JavaScript, HTML5, CSS3, Git, React.js, Node.js, express.js, Webpack, Bash 
  * Самые крупные проекты: <a href="https://github.com/sonyalivarenko/movies-explorer-frontend" target="_blank">movies-explorer</a>, <a href="https://github.com/sonyalivarenko/mesto-react" target="_blank">mesto-react</a>
  * Студент Я.Практикум. Специальность: веб-разработчик. 2022-2023 г.
  * Мечтаю работать в дружной компании и становиться опытнее с каждым днем <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="20" height="20"> 
